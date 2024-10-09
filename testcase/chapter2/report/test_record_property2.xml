@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest_chinese_doc" errors="0" failures="0" skipped="0" tests="1" time="0.012" timestamp="2024-09-30T16:36:39.163182+08:00" hostname="earfun"><testcase classname="custom_classname" name="test_record_property2" file="test_xml_report.py" line="4" test_id="10010" time="0.004" /></testsuite></testsuites>

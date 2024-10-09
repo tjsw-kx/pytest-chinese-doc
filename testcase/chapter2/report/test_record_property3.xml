@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite name="pytest_chinese_doc" errors="0" failures="0" skipped="0" tests="1" time="0.014"
+             timestamp="2024-09-30T17:36:25.674915+08:00" hostname="earfun">
+    <properties>
+      <property name="EXECUTOR" value="lkx"/>
+      <property name="LOCATION" value="GD"/>
+    </properties>
+    <testcase classname="test_xml_report" name="test_record_property3" file="test_xml_report.py" line="17"
+              time="0.004"/>
+  </testsuite>
+</testsuites>
